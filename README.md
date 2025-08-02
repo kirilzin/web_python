@@ -1,2 +1,2 @@
-# web_python
-web_python
+# web-project
+web-project
